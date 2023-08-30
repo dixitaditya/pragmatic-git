@@ -14,11 +14,35 @@ In response, I've developed a structured guide with specific viewpoints to aid t
 
 ## 01: Intro to Version Control & Git
 - What is version control?
+    - Version control: System for managing and tracking changes to files.
+    - Keeps a historical record of changes made over time.
+    - Enables collaboration among team members.
+    - Provides a way to revert to previous versions if needed.
+    - Helps in identifying who made what changes and when.
+    - Reduces the risk of data loss and conflicts in projects.
+    - Commonly used in software development to manage code changes.
 - Why we need version control in frontend projects, when?
-    - Working solo
-    - working in Teams   
-- Setup recommendation
-- Choosing a Git client: Should you choose Graphical interfaces or command-line.
+    - **Working Solo:**
+        - Keeps track of changes made during development.
+        - Enables experimentation without fear of losing progress.
+        - Provides a safety net to revert to previous versions if       issues arise.
+        - Helps in maintaining a clean and organized codebase.
+        - Facilitates code review for self-improvement.
+
+    - **Working in Teams:**
+        - Facilitates collaboration among team members.
+        - Allows multiple developers to work on the same codebase       simultaneously.
+        - Helps manage conflicts when multiple people modify the same       file.
+        - Provides a central repository for code, reducing      duplication.
+        - Enhances communication by providing a clear history of        changes.
+        - Enables easy integration of new features and bug fixes.
+        - Setup recommendation
+        - Choosing a Git client: Should you choose Graphical interfaces or command-line.
+
+- Setup recommendation: Install Git on your local machine.
+- Choosing a Git client:
+  - Graphical interfaces: User-friendly, visual representation.
+  - Command-line: More control, efficient for advanced users.
 
 
 ## 02: Git Basics for Frontend Developers
